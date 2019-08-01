@@ -2,7 +2,7 @@
   "name": "newrobettest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitgitzarko.github.io/robet2demo",
+  "homepage": "https://gitgitzarko.github.io/robet2demo",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
